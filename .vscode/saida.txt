@@ -1,0 +1,42 @@
+
+Cadastro da Carta 1:
+Digite o Estado (A-H): A
+Digite o Código da Carta (Ex: A01): A1
+Digite o Nome da Cidade: Belo Horizonte
+Digite a População: 2300000
+Digite a Área (em km²): 331  
+Digite o PIB (em bilhões de reais): 105
+Digite o Número de Pontos Turísticos: 19
+
+Cadastro da Carta 2:
+Digite o Estado (A-H): B
+Digite o Código da Carta (Ex: B02): B2
+Digite o Nome da Cidade: Rio de Janeiro
+Digite a População: 6200000
+Digite a Área (em km²): 1200 
+Digite o PIB (em bilhões de reais): 337
+Digite o Número de Pontos Turísticos: 39
+
+=============================
+Carta 1:
+Estado: A
+Código: A1
+Nome da Cidade: Belo Horizonte
+População: 2300000
+Área: 331.00 km²
+PIB: 105.00 bilhões de reais
+Número de Pontos Turísticos: 19
+
+=============================
+Carta 2:
+Estado: B
+Código: B2
+Nome da Cidade: Rio de Janeiro
+População: 6200000
+Área: 1200.00 km²
+PIB: 337.00 bilhões de reais
+Número de Pontos Turísticos: 39
+
+=============================
+[1] + Done                       "/usr/bin/gdb" --interpreter=mi --tty=${DbgTerm} 0<"/tmp/Microsoft-MIEngine-In-4ww4f2t1.dpc" 1>"/tmp/Microsoft-MIEngine-Out-dqlv4cpo.5eo"
+@programacaogiovgh ➜ /workspaces/supertrunfonovato (main) $ 
